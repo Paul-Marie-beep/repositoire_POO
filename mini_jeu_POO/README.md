@@ -1,0 +1,1 @@
+This is a videogame in 3 versions. The 1st one is fairly basic and you only watch an unhappy couple fight to death. The second one is a little more refine with a human player and two bots. The human player can heal and pick a better weapon. The third one lets you play againt 4 bots.
